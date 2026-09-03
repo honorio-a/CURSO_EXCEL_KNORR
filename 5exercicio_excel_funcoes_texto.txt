@@ -1,0 +1,28 @@
+Instruções do Exercício de Extração de Texto no Excel:
+
+Objetivo: Praticar as funções ESQUERDA (LEFT), DIREITA (RIGHT) e EXT.TEXTO (MID).
+
+Passo a Passo:
+1. Abra o Excel e importe este arquivo de texto (Guia Dados > De Texto/CSV).
+2. O delimitador dos dados é o Ponto e Vírgula (;).
+3. Na coluna ao lado dos dados, crie uma coluna chamada "Categoria". Use a função =ESQUERDA(A2; 3) para extrair as 3 primeiras letras do código.
+4. Crie uma coluna chamada "Ano". Use a função =EXT.TEXTO(A2; 5; 4) para extrair o ano de fabricação.
+5. Crie uma coluna chamada "Lote". Use a função =DIREITA(A2; 4) para extrair os 4 últimos caracteres do código.
+
+==================== DADOS ====================
+Codigo_Produto;Descricao_Produto;Valor_Unitario
+ELE-2023-L001;Smartphone Alpha;1500,00
+ELE-2022-L002;Tablet Beta;1200,00
+MEC-2024-L003;Motor de Popa;4500,00
+MEC-2023-L004;Pistao de Aco;300,00
+ALI-2024-L005;Cereal Matinal;15,50
+ALI-2023-L006;Leite Integral;5,00
+FER-2021-L007;Martelo Emborrachado;45,00
+FER-2022-L008;Chave de Fenda;25,00
+ELE-2024-L009;Notebook Gamma;3500,00
+MEC-2021-L010;Correia Dentada;120,00
+ALI-2022-L011;Azeite de Oliva;28,90
+FER-2024-L012;Furadeira de Impacto;250,00
+ELE-2021-L013;Fone Bluetooth;150,00
+ALI-2024-L014;Cafe Torrado;18,00
+FER-2023-L015;Alicate Universal;35,00

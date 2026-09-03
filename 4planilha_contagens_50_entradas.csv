@@ -1,0 +1,51 @@
+﻿ID_Pedido;Data_Envio;Transportadora;Regiao_Destino;Quantidade_Itens;Valor_Frete_RS;Dias_Transito;Status_Entrega
+PED-1001;2026-08-01;FreteCerto;Nordeste;13;136.87;7.0;Entregue
+PED-1002;2026-08-02;ExpressoSul;Centro-Oeste;9;61.58;9.0;Entregue
+PED-1003;2026-08-03;TransRápido;Centro-Oeste;13;64.69;;Cancelado
+PED-1004;2026-08-04;FreteCerto;Sudeste;13;31.27;9.0;Entregue
+PED-1005;2026-08-05;FreteCerto;Nordeste;1;135.15;;Atrasado
+PED-1006;2026-08-06;ExpressoSul;Norte;9;42.19;3.0;Entregue
+PED-1007;2026-08-07;TransRápido;Nordeste;7;93.1;3.0;Entregue
+PED-1008;2026-08-08;TransRápido;Norte;9;56.27;3.0;Entregue
+PED-1009;2026-08-09;FreteCerto;Sudeste;8;163.84;4.0;Em Rota
+PED-1010;2026-08-10;LogBrasil;Sul;1;98.68;8.0;Atrasado
+PED-1011;2026-08-11;FreteCerto;Centro-Oeste;12;112.31;6.0;Entregue
+PED-1012;2026-08-12;FreteCerto;Sudeste;8;132.8;8.0;Entregue
+PED-1013;2026-08-13;FreteCerto;Centro-Oeste;8;46.6;1.0;Entregue
+PED-1014;2026-08-14;FreteCerto;Sul;11;118.68;8.0;Em Rota
+PED-1015;2026-08-15;ExpressoSul;Sul;3;108.68;4.0;Entregue
+PED-1016;2026-08-16;TransRápido;Sudeste;1;56.47;;Cancelado
+PED-1017;2026-08-17;ExpressoSul;Sul;8;171.14;8.0;Entregue
+PED-1018;2026-08-18;ExpressoSul;Norte;3;117.82;4.0;Entregue
+PED-1019;2026-08-19;ExpressoSul;Sul;3;132.69;6.0;Atrasado
+PED-1020;2026-08-20;FreteCerto;Centro-Oeste;1;161.47;;Em Rota
+PED-1021;2026-08-21;LogBrasil;Centro-Oeste;11;121.77;;Cancelado
+PED-1022;2026-08-22;TransRápido;Centro-Oeste;5;70.82;4.0;Entregue
+PED-1023;2026-08-23;LogBrasil;Centro-Oeste;10;41.35;3.0;Entregue
+PED-1024;2026-08-24;ExpressoSul;Norte;7;95.76;9.0;Entregue
+PED-1025;2026-08-25;ExpressoSul;Nordeste;10;58.86;;Cancelado
+PED-1026;2026-08-26;LogBrasil;Sudeste;9;89.56;9.0;Entregue
+PED-1027;2026-08-27;LogBrasil;Centro-Oeste;12;161.91;2.0;Entregue
+PED-1028;2026-08-28;LogBrasil;Sul;7;75.27;2.0;Entregue
+PED-1029;2026-08-29;ExpressoSul;Centro-Oeste;9;43.92;2.0;Entregue
+PED-1030;2026-08-30;ExpressoSul;Sul;8;80.23;6.0;Entregue
+PED-1031;2026-08-31;TransRápido;Sul;12;165.56;3.0;Entregue
+PED-1032;2026-09-01;TransRápido;Centro-Oeste;2;67.18;9.0;Entregue
+PED-1033;2026-09-02;ExpressoSul;Norte;1;125.39;4.0;Em Rota
+PED-1034;2026-09-03;LogBrasil;Sul;7;25.08;1.0;Atrasado
+PED-1035;2026-09-04;LogBrasil;Sul;7;79.65;4.0;Entregue
+PED-1036;2026-09-05;TransRápido;Centro-Oeste;14;72.24;1.0;Entregue
+PED-1037;2026-09-06;ExpressoSul;Sul;8;50.52;5.0;Em Rota
+PED-1038;2026-09-07;TransRápido;Sul;5;107.78;4.0;Entregue
+PED-1039;2026-09-08;TransRápido;Centro-Oeste;3;100.15;8.0;Entregue
+PED-1040;2026-09-09;FreteCerto;Centro-Oeste;12;132.33;8.0;Entregue
+PED-1041;2026-09-10;FreteCerto;Sudeste;8;66.76;7.0;Entregue
+PED-1042;2026-09-11;FreteCerto;Norte;6;62.84;3.0;Em Rota
+PED-1043;2026-09-12;LogBrasil;Norte;11;51.09;1.0;Entregue
+PED-1044;2026-09-13;ExpressoSul;Sul;3;58.91;1.0;Em Rota
+PED-1045;2026-09-14;ExpressoSul;Norte;1;111.51;;Entregue
+PED-1046;2026-09-15;ExpressoSul;Sul;3;87.59;3.0;Entregue
+PED-1047;2026-09-16;ExpressoSul;Sudeste;5;35.06;6.0;Entregue
+PED-1048;2026-09-17;FreteCerto;Centro-Oeste;14;64.36;;Entregue
+PED-1049;2026-09-18;LogBrasil;Centro-Oeste;3;63.27;;Entregue
+PED-1050;2026-09-19;LogBrasil;Centro-Oeste;1;132.93;7.0;Entregue

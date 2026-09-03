@@ -1,0 +1,18 @@
+
+
+| Produto | Valor |
+|---|---|
+| Mesa | R$ 700,00 |
+| Cadeira | R$ 200,00 |
+| Sofá | R$ 3.000,00 |
+| Armário | R$ 3.293,00 |
+| Portas | R$ 980,00 |
+| Acessórios | R$ 372,00 |
+| Pratos | R$ 115,00 |
+| Copos | R$ 79,00 |
+| Talheres | R$ 59,00 |
+| Televisão | R$ 6.000,00 |
+| Computador | R$ 12.000,00 |
+
+
+

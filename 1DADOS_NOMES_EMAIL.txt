@@ -1,0 +1,25 @@
+Telefone; Nome; Sobrenome; Email
+29837128; Edson; Cavalcante Junior; edson@ninjadoexcel.com.br
+47627172; Maria; Souza; maria@ninjadoexcel.com.br
+21727372; Joana; Mália; joana@teste.com.br
+21727831; Ana; Clécia; ana@gmail.com
+37162736; Maria; das Graças Junior; maria@hotmail.com
+26716728; Maicon; Paulino; maicon@bol.com.br
+20918212; Jean; Cavalcante; jean@ig.com.br
+29817291; Maitê; Mianutti; maitê@yahoo.com.br
+20199010; Bianca; Machado Junior; bianca@ymail.com
+20091822; Henrique; Lima; henrique@ninjadoexcel.com.br
+39282811; Amanda; Teixeira; amanda@ninjadoexcel.com.br
+32881212; Gisele; Amorin; gisele@ninjadoexcel.com.br
+48837829; Mayara; Rondon Junior; mayara@ninjadoexcel.com.br
+48738122; Natália; Bernardes; natália@ninjadoexcel.com.br
+49918829; Letícia; Barros; letícia@ninjadoexcel.com.br
+48881728; Fernanda; Emboaba Junior; fernanda@ninjadoexcel.com.br
+40182821; Joyce; Gazizi; joyce@ninjadoexcel.com.br
+40817272; Helton; Oliveira; helton@ninjadoexcel.com.br
+40899191; Marcio; Alencar; marcio@ninjadoexcel.com.br
+40901018; Marcus; Machado; marcus@ninjadoexcel.com.br
+40902845; Gilmar; Neves Junior; gilmar@ninjadoexcel.com.br
+40904672; Fabiana; Costa; fabiana@ymail.com
+40906499; Fátima; Silva; fátima@ninjadoexcel.com.br
+40908326; Rodrigo; Jorge; rodrigo@ninjadoexcel.com.br

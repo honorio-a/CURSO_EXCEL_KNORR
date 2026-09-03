@@ -1,0 +1,201 @@
+﻿ID_Processo;Etapa_Logistica;Linha_Producao;Tempo_Ciclo_Min;Tempo_Espera_Min;Pecas_Produzidas;Pecas_Defeituosas;Custo_Operacional_R$;Gargalo_Identificado;Engenheiro_Responsavel
+PRC-001;Triagem;Linha A - Montagem;31.0;8.8;371;11;959.8;Não;Eng. Santos
+PRC-002;Embalagem (Packing);Célula de Solda;33.1;14.6;269;9;569.21;Sim;Analista Rocha
+PRC-003;Expedição;Célula Robótica 1;36.8;8.3;124;9;439.92;Sim;Sup. Costa
+PRC-004;Triagem;Célula Robótica 1;40.6;9.8;53;0;185.42;Sim;Eng. Silva
+PRC-005;Separação (Picking);Célula Robótica 1;18.5;10.7;384;18;1242.91;Sim;Analista Rocha
+PRC-006;Expedição;Célula Robótica 1;20.0;7.4;183;7;399.01;Não;Sup. Souza
+PRC-007;Expedição;Célula Robótica 1;8.8;9.8;167;8;496.92;Não;Eng. Silva
+PRC-008;Triagem;Linha C - Embalagem;28.1;9.2;418;0;1004.22;Não;Eng. Santos
+PRC-009;Armazenagem;Linha B - Pintura;6.4;13.6;143;9;247.24;Sim;Sup. Souza
+PRC-010;Separação (Picking);Célula Robótica 1;23.6;1.6;484;36;1835.95;Não;Eng. Silva
+PRC-011;Triagem;Linha A - Montagem;26.7;4.9;111;5;204.47;Não;Sup. Souza
+PRC-012;Separação (Picking);Linha A - Montagem;16.5;14.3;490;27;1899.04;Sim;Eng. Santos
+PRC-013;Separação (Picking);Linha A - Montagem;28.6;13.5;243;17;635.45;Sim;Sup. Costa
+PRC-014;Expedição;Linha A - Montagem;6.2;7.4;384;21;753.73;Não;Eng. Santos
+PRC-015;Embalagem (Packing);Linha C - Embalagem;6.5;9.7;252;3;719.4;Não;Eng. Santos
+PRC-016;Separação (Picking);Linha A - Montagem;37.9;4.9;441;20;1623.92;Sim;Sup. Souza
+PRC-017;Transporte;Célula Robótica 1;19.4;3.6;75;3;249.79;Não;Eng. Lima
+PRC-018;Expedição;Célula de Solda;10.1;7.5;484;16;1701.94;Não;Analista Rocha
+PRC-019;Armazenagem;Linha A - Montagem;25.9;5.9;222;13;698.62;Não;Analista Rocha
+PRC-020;Embalagem (Packing);Linha C - Embalagem;35.8;9.2;349;26;1127.51;Sim;Sup. Costa
+PRC-021;Transporte;Linha C - Embalagem;13.6;2.1;182;13;659.38;Não;Sup. Costa
+PRC-022;Transporte;Linha A - Montagem;29.9;14.6;375;13;796.56;Sim;Analista Rocha
+PRC-023;Armazenagem;Célula de Solda;8.4;14.8;459;4;1250.12;Sim;Eng. Lima
+PRC-024;Embalagem (Packing);Linha A - Montagem;7.1;10.8;167;13;342.85;Sim;Analista Rocha
+PRC-025;Expedição;Linha C - Embalagem;26.3;8.5;373;25;1480.5;Não;Eng. Lima
+PRC-026;Recebimento;Linha B - Pintura;26.6;5.3;324;3;1250.69;Não;Sup. Costa
+PRC-027;Embalagem (Packing);Célula Robótica 1;30.5;12.4;261;19;417.23;Sim;Eng. Silva
+PRC-028;Armazenagem;Linha C - Embalagem;34.0;10.6;274;19;894.32;Sim;Sup. Souza
+PRC-029;Transporte;Linha A - Montagem;44.0;3.3;69;2;263.11;Sim;Sup. Costa
+PRC-030;Expedição;Célula Robótica 1;25.7;13.8;162;7;316.13;Sim;Sup. Costa
+PRC-031;Embalagem (Packing);Linha A - Montagem;17.9;12.5;189;6;551.85;Sim;Eng. Santos
+PRC-032;Recebimento;Linha A - Montagem;36.8;14.3;96;0;363.72;Sim;Eng. Santos
+PRC-033;Recebimento;Linha B - Pintura;15.8;11.2;50;1;79.24;Sim;Eng. Santos
+PRC-034;Separação (Picking);Célula Robótica 1;22.6;9.6;139;8;450.85;Não;Sup. Souza
+PRC-035;Separação (Picking);Célula Robótica 1;8.1;6.9;191;0;428.48;Não;Eng. Santos
+PRC-036;Triagem;Linha B - Pintura;6.0;14.1;369;9;1406.26;Sim;Eng. Lima
+PRC-037;Armazenagem;Linha C - Embalagem;43.5;13.1;87;2;341.71;Sim;Analista Rocha
+PRC-038;Embalagem (Packing);Linha A - Montagem;38.4;1.6;342;14;1320.35;Sim;Eng. Silva
+PRC-039;Embalagem (Packing);Célula de Solda;32.8;1.4;431;31;1157.47;Não;Sup. Costa
+PRC-040;Triagem;Linha A - Montagem;21.4;6.3;188;5;687.16;Não;Eng. Lima
+PRC-041;Transporte;Linha A - Montagem;11.9;12.3;405;11;1462.61;Sim;Eng. Silva
+PRC-042;Transporte;Linha C - Embalagem;11.3;14.8;382;22;877.74;Sim;Eng. Lima
+PRC-043;Triagem;Linha A - Montagem;15.0;3.1;308;11;1100.26;Não;Eng. Lima
+PRC-044;Transporte;Linha B - Pintura;27.0;9.3;210;3;334.43;Não;Sup. Costa
+PRC-045;Separação (Picking);Linha B - Pintura;33.6;6.3;439;15;1312.91;Não;Analista Rocha
+PRC-046;Embalagem (Packing);Célula Robótica 1;31.4;14.6;227;2;471.03;Sim;Eng. Santos
+PRC-047;Triagem;Célula de Solda;16.2;12.8;59;0;106.28;Sim;Sup. Souza
+PRC-048;Embalagem (Packing);Linha A - Montagem;43.2;12.7;310;12;524.64;Sim;Analista Rocha
+PRC-049;Recebimento;Linha A - Montagem;34.5;7.6;456;15;1477.77;Não;Sup. Souza
+PRC-050;Separação (Picking);Linha C - Embalagem;27.2;6.8;187;13;439.39;Não;Sup. Costa
+PRC-051;Expedição;Linha B - Pintura;29.5;4.8;221;6;731.93;Não;Sup. Costa
+PRC-052;Separação (Picking);Célula de Solda;21.8;1.8;435;20;723.58;Não;Sup. Costa
+PRC-053;Triagem;Célula Robótica 1;14.9;13.1;62;3;141.87;Sim;Eng. Silva
+PRC-054;Expedição;Linha B - Pintura;19.2;12.4;217;0;618.17;Sim;Sup. Souza
+PRC-055;Recebimento;Célula Robótica 1;35.3;15.0;179;9;622.35;Sim;Analista Rocha
+PRC-056;Triagem;Linha C - Embalagem;5.6;15.0;133;1;305.49;Sim;Analista Rocha
+PRC-057;Armazenagem;Linha C - Embalagem;9.6;8.8;370;28;1133.95;Não;Eng. Lima
+PRC-058;Embalagem (Packing);Linha A - Montagem;6.8;11.8;368;4;1367.1;Sim;Eng. Lima
+PRC-059;Recebimento;Célula de Solda;6.6;14.2;150;4;455.95;Sim;Eng. Lima
+PRC-060;Embalagem (Packing);Célula Robótica 1;39.2;12.9;378;2;787.15;Sim;Sup. Costa
+PRC-061;Transporte;Linha B - Pintura;33.1;4.5;322;25;502.64;Não;Analista Rocha
+PRC-062;Armazenagem;Linha C - Embalagem;24.0;7.3;314;12;1154.03;Não;Sup. Souza
+PRC-063;Armazenagem;Linha A - Montagem;8.9;2.8;448;21;695.82;Não;Sup. Costa
+PRC-064;Recebimento;Linha A - Montagem;24.7;14.4;457;2;1684.85;Sim;Eng. Silva
+PRC-065;Armazenagem;Célula Robótica 1;23.9;9.5;87;5;245.54;Não;Eng. Lima
+PRC-066;Expedição;Linha C - Embalagem;11.9;4.2;468;7;1800.71;Não;Sup. Costa
+PRC-067;Armazenagem;Célula de Solda;22.4;10.4;143;10;500.07;Sim;Sup. Costa
+PRC-068;Embalagem (Packing);Linha C - Embalagem;20.9;9.7;144;2;575.26;Não;Eng. Silva
+PRC-069;Embalagem (Packing);Célula Robótica 1;29.6;6.0;354;5;841.38;Não;Eng. Santos
+PRC-070;Triagem;Célula Robótica 1;30.4;2.6;118;0;403.32;Não;Analista Rocha
+PRC-071;Embalagem (Packing);Linha C - Embalagem;6.8;10.4;367;13;919.27;Sim;Sup. Souza
+PRC-072;Triagem;Célula Robótica 1;20.0;8.3;493;22;1330.95;Não;Eng. Santos
+PRC-073;Embalagem (Packing);Linha C - Embalagem;30.0;11.8;285;1;874.6;Sim;Eng. Lima
+PRC-074;Expedição;Linha B - Pintura;25.1;8.3;483;29;1779.47;Não;Sup. Costa
+PRC-075;Triagem;Linha C - Embalagem;39.3;12.9;383;13;1516.76;Sim;Eng. Silva
+PRC-076;Separação (Picking);Linha C - Embalagem;31.3;8.7;422;17;1443.53;Não;Eng. Silva
+PRC-077;Transporte;Célula Robótica 1;11.5;8.9;425;14;1081.38;Não;Analista Rocha
+PRC-078;Recebimento;Célula Robótica 1;7.8;13.3;186;5;474.93;Sim;Eng. Santos
+PRC-079;Embalagem (Packing);Linha A - Montagem;30.7;6.6;467;20;1561.63;Não;Analista Rocha
+PRC-080;Armazenagem;Linha A - Montagem;6.1;2.9;125;1;262.12;Não;Sup. Costa
+PRC-081;Embalagem (Packing);Linha B - Pintura;28.4;1.4;84;1;149.2;Não;Analista Rocha
+PRC-082;Armazenagem;Linha A - Montagem;42.6;11.6;50;3;119.33;Sim;Sup. Souza
+PRC-083;Transporte;Linha C - Embalagem;28.0;9.7;345;26;765.24;Não;Eng. Silva
+PRC-084;Transporte;Célula Robótica 1;20.5;10.9;369;11;826.84;Sim;Eng. Silva
+PRC-085;Transporte;Linha A - Montagem;30.7;4.0;455;9;948.23;Não;Eng. Lima
+PRC-086;Armazenagem;Linha A - Montagem;23.3;2.9;109;5;174.97;Não;Eng. Lima
+PRC-087;Embalagem (Packing);Linha B - Pintura;26.8;1.2;369;12;569.99;Não;Sup. Costa
+PRC-088;Transporte;Linha B - Pintura;42.7;5.9;398;0;1579.78;Sim;Sup. Souza
+PRC-089;Expedição;Linha C - Embalagem;20.4;9.3;377;4;968.68;Não;Eng. Santos
+PRC-090;Triagem;Célula Robótica 1;43.4;6.5;316;18;777.62;Sim;Analista Rocha
+PRC-091;Armazenagem;Linha B - Pintura;41.2;7.1;410;21;1311.64;Sim;Sup. Costa
+PRC-092;Armazenagem;Linha A - Montagem;12.8;13.7;278;0;568.69;Sim;Eng. Lima
+PRC-093;Embalagem (Packing);Célula Robótica 1;7.8;5.9;319;5;1236.09;Não;Analista Rocha
+PRC-094;Armazenagem;Célula Robótica 1;9.0;8.2;365;6;1265.04;Não;Eng. Lima
+PRC-095;Armazenagem;Linha A - Montagem;5.7;12.0;335;18;577.38;Sim;Analista Rocha
+PRC-096;Transporte;Linha B - Pintura;8.8;6.6;340;0;864.94;Não;Eng. Santos
+PRC-097;Embalagem (Packing);Linha A - Montagem;32.3;9.7;262;2;968.82;Não;Sup. Costa
+PRC-098;Transporte;Célula Robótica 1;7.8;13.1;214;13;826.43;Sim;Analista Rocha
+PRC-099;Triagem;Célula de Solda;17.8;14.3;54;0;144.1;Sim;Sup. Souza
+PRC-100;Triagem;Célula de Solda;38.8;3.1;388;20;1177.01;Sim;Eng. Silva
+PRC-101;Transporte;Linha C - Embalagem;5.9;14.0;428;8;820.73;Sim;Sup. Souza
+PRC-102;Triagem;Linha A - Montagem;37.6;7.9;127;1;505.2;Sim;Sup. Souza
+PRC-103;Embalagem (Packing);Linha A - Montagem;16.3;4.6;459;8;954.34;Não;Eng. Silva
+PRC-104;Recebimento;Linha C - Embalagem;9.7;7.4;111;6;428.11;Não;Sup. Souza
+PRC-105;Transporte;Linha C - Embalagem;32.9;14.7;181;12;565.47;Sim;Analista Rocha
+PRC-106;Expedição;Linha C - Embalagem;30.2;7.9;138;9;416.67;Não;Analista Rocha
+PRC-107;Expedição;Célula Robótica 1;40.1;5.6;286;9;795.57;Sim;Analista Rocha
+PRC-108;Armazenagem;Linha A - Montagem;34.4;9.9;91;4;188.98;Não;Eng. Silva
+PRC-109;Triagem;Célula Robótica 1;37.1;4.4;138;2;267.9;Sim;Sup. Souza
+PRC-110;Expedição;Linha C - Embalagem;16.3;2.1;451;10;925.1;Não;Eng. Silva
+PRC-111;Armazenagem;Linha A - Montagem;12.1;2.8;345;24;678.3;Não;Analista Rocha
+PRC-112;Recebimento;Célula Robótica 1;35.0;2.8;377;0;1300.26;Não;Sup. Souza
+PRC-113;Embalagem (Packing);Célula Robótica 1;37.3;3.1;344;2;817.11;Sim;Sup. Souza
+PRC-114;Embalagem (Packing);Linha C - Embalagem;44.6;2.9;153;2;251.62;Sim;Eng. Lima
+PRC-115;Embalagem (Packing);Linha A - Montagem;21.5;10.0;63;0;247.13;Não;Eng. Lima
+PRC-116;Expedição;Linha C - Embalagem;19.9;3.5;337;4;1250.09;Não;Eng. Santos
+PRC-117;Recebimento;Linha A - Montagem;36.1;5.8;228;10;870.82;Sim;Sup. Costa
+PRC-118;Expedição;Célula de Solda;18.6;13.6;174;5;693.78;Sim;Eng. Lima
+PRC-119;Triagem;Linha B - Pintura;42.2;7.6;471;33;911.26;Sim;Eng. Silva
+PRC-120;Expedição;Linha B - Pintura;39.3;10.3;402;26;1001.22;Sim;Eng. Lima
+PRC-121;Recebimento;Linha B - Pintura;22.2;3.4;72;1;244.48;Não;Eng. Santos
+PRC-122;Recebimento;Linha C - Embalagem;35.0;3.7;112;2;362.89;Não;Sup. Souza
+PRC-123;Triagem;Célula de Solda;35.2;1.6;192;5;361.87;Sim;Eng. Santos
+PRC-124;Recebimento;Linha A - Montagem;9.1;3.4;202;9;715.0;Não;Sup. Souza
+PRC-125;Recebimento;Célula Robótica 1;41.1;4.9;194;4;399.85;Sim;Sup. Souza
+PRC-126;Embalagem (Packing);Linha A - Montagem;25.2;3.5;274;13;564.32;Não;Sup. Costa
+PRC-127;Triagem;Célula Robótica 1;38.1;2.2;499;16;1418.38;Sim;Eng. Lima
+PRC-128;Separação (Picking);Linha A - Montagem;17.8;2.7;358;15;1067.68;Não;Eng. Silva
+PRC-129;Separação (Picking);Célula de Solda;40.8;7.5;153;5;451.38;Sim;Eng. Silva
+PRC-130;Recebimento;Célula Robótica 1;20.6;3.9;153;3;264.49;Não;Analista Rocha
+PRC-131;Separação (Picking);Linha C - Embalagem;5.4;6.1;484;36;1787.73;Não;Sup. Souza
+PRC-132;Separação (Picking);Linha A - Montagem;41.2;8.0;88;5;190.43;Sim;Eng. Silva
+PRC-133;Recebimento;Linha A - Montagem;8.7;10.7;484;5;882.71;Sim;Sup. Costa
+PRC-134;Separação (Picking);Célula Robótica 1;17.8;1.6;247;17;919.3;Não;Sup. Souza
+PRC-135;Expedição;Linha C - Embalagem;43.0;12.2;183;7;711.71;Sim;Sup. Costa
+PRC-136;Armazenagem;Linha C - Embalagem;43.0;9.8;116;8;424.02;Sim;Eng. Silva
+PRC-137;Triagem;Célula de Solda;27.9;2.1;440;28;1550.47;Não;Eng. Silva
+PRC-138;Armazenagem;Linha C - Embalagem;30.3;13.2;228;7;715.49;Sim;Analista Rocha
+PRC-139;Recebimento;Linha C - Embalagem;22.9;13.9;91;0;261.82;Sim;Eng. Silva
+PRC-140;Embalagem (Packing);Linha C - Embalagem;16.7;1.9;497;10;853.58;Não;Sup. Souza
+PRC-141;Triagem;Linha B - Pintura;18.1;4.9;64;2;161.35;Não;Sup. Souza
+PRC-142;Recebimento;Célula de Solda;31.9;12.3;160;8;389.08;Sim;Sup. Souza
+PRC-143;Embalagem (Packing);Linha A - Montagem;35.1;11.5;206;4;442.77;Sim;Analista Rocha
+PRC-144;Armazenagem;Célula Robótica 1;36.7;3.6;338;3;1118.29;Sim;Analista Rocha
+PRC-145;Recebimento;Linha A - Montagem;36.6;3.9;280;18;767.11;Sim;Eng. Silva
+PRC-146;Triagem;Célula de Solda;8.6;6.2;460;36;783.2;Não;Eng. Santos
+PRC-147;Triagem;Célula Robótica 1;24.8;7.8;469;19;961.66;Não;Eng. Santos
+PRC-148;Transporte;Célula de Solda;7.3;9.7;206;2;660.88;Não;Analista Rocha
+PRC-149;Expedição;Linha C - Embalagem;27.0;6.2;87;1;147.06;Não;Eng. Silva
+PRC-150;Separação (Picking);Célula Robótica 1;22.7;7.5;490;0;1777.73;Não;Eng. Santos
+PRC-151;Embalagem (Packing);Linha C - Embalagem;40.5;11.5;146;10;399.73;Sim;Eng. Silva
+PRC-152;Transporte;Linha A - Montagem;19.0;1.5;460;4;1242.67;Não;Eng. Silva
+PRC-153;Separação (Picking);Linha A - Montagem;9.7;4.5;488;22;1454.74;Não;Eng. Silva
+PRC-154;Separação (Picking);Célula Robótica 1;10.7;11.0;338;7;1203.86;Sim;Eng. Lima
+PRC-155;Recebimento;Célula Robótica 1;35.5;13.5;303;13;717.97;Sim;Sup. Souza
+PRC-156;Separação (Picking);Célula de Solda;29.7;8.2;245;12;782.78;Não;Eng. Silva
+PRC-157;Expedição;Célula de Solda;9.0;8.4;135;8;393.43;Não;Eng. Lima
+PRC-158;Triagem;Linha C - Embalagem;8.4;2.5;371;6;804.17;Não;Analista Rocha
+PRC-159;Transporte;Célula Robótica 1;33.0;7.3;59;0;218.1;Não;Eng. Santos
+PRC-160;Separação (Picking);Linha A - Montagem;7.9;8.5;54;0;188.65;Não;Sup. Souza
+PRC-161;Recebimento;Célula de Solda;37.9;4.4;172;12;541.13;Sim;Eng. Santos
+PRC-162;Expedição;Célula de Solda;33.2;4.8;379;26;1374.43;Não;Sup. Souza
+PRC-163;Armazenagem;Linha A - Montagem;8.3;6.3;402;19;1474.63;Não;Eng. Santos
+PRC-164;Triagem;Célula de Solda;8.4;1.3;167;8;546.24;Não;Sup. Souza
+PRC-165;Triagem;Linha C - Embalagem;44.5;5.5;343;18;1232.24;Sim;Eng. Santos
+PRC-166;Transporte;Célula Robótica 1;20.0;4.0;446;6;1446.68;Não;Eng. Santos
+PRC-167;Triagem;Linha A - Montagem;19.8;5.6;208;15;665.67;Não;Eng. Santos
+PRC-168;Separação (Picking);Célula Robótica 1;37.5;2.7;352;11;1072.38;Sim;Eng. Santos
+PRC-169;Recebimento;Célula de Solda;42.9;13.5;277;8;936.76;Sim;Analista Rocha
+PRC-170;Triagem;Célula de Solda;44.4;9.3;414;17;785.16;Sim;Eng. Silva
+PRC-171;Triagem;Linha A - Montagem;35.1;10.5;265;0;981.08;Sim;Sup. Costa
+PRC-172;Armazenagem;Linha C - Embalagem;20.1;12.0;485;6;1784.61;Sim;Eng. Lima
+PRC-173;Armazenagem;Linha B - Pintura;8.3;8.0;233;13;366.54;Não;Sup. Costa
+PRC-174;Embalagem (Packing);Linha A - Montagem;36.1;2.2;64;0;228.13;Sim;Sup. Costa
+PRC-175;Expedição;Linha B - Pintura;27.3;8.5;206;9;375.37;Não;Sup. Souza
+PRC-176;Separação (Picking);Linha B - Pintura;22.0;9.2;185;3;432.49;Não;Eng. Silva
+PRC-177;Triagem;Linha C - Embalagem;41.3;11.4;310;9;1041.22;Sim;Sup. Souza
+PRC-178;Triagem;Linha B - Pintura;9.4;7.0;206;4;391.79;Não;Eng. Silva
+PRC-179;Recebimento;Linha B - Pintura;24.7;2.8;96;2;340.31;Não;Eng. Silva
+PRC-180;Embalagem (Packing);Linha C - Embalagem;5.5;5.0;373;21;1335.47;Não;Eng. Santos
+PRC-181;Expedição;Linha B - Pintura;23.7;6.1;381;9;1054.86;Não;Analista Rocha
+PRC-182;Embalagem (Packing);Linha B - Pintura;7.3;10.0;222;10;336.54;Não;Eng. Santos
+PRC-183;Transporte;Linha B - Pintura;9.8;9.0;179;6;396.95;Não;Analista Rocha
+PRC-184;Expedição;Linha A - Montagem;9.7;6.0;460;24;1399.47;Não;Sup. Souza
+PRC-185;Triagem;Linha A - Montagem;31.0;14.8;144;10;569.23;Sim;Analista Rocha
+PRC-186;Triagem;Linha A - Montagem;34.8;9.5;164;9;505.04;Não;Sup. Souza
+PRC-187;Expedição;Linha C - Embalagem;28.3;4.3;292;5;627.66;Não;Sup. Costa
+PRC-188;Triagem;Célula de Solda;43.5;2.4;469;1;1446.87;Sim;Sup. Costa
+PRC-189;Separação (Picking);Linha B - Pintura;20.0;3.1;341;7;971.84;Não;Analista Rocha
+PRC-190;Expedição;Linha B - Pintura;16.4;4.4;331;15;1141.82;Não;Analista Rocha
+PRC-191;Embalagem (Packing);Linha C - Embalagem;39.7;3.2;348;1;615.07;Sim;Sup. Souza
+PRC-192;Expedição;Linha B - Pintura;13.9;3.6;332;13;1129.65;Não;Eng. Santos
+PRC-193;Triagem;Linha A - Montagem;43.5;5.0;118;5;336.67;Sim;Sup. Souza
+PRC-194;Separação (Picking);Célula de Solda;5.5;3.4;197;5;769.77;Não;Eng. Santos
+PRC-195;Separação (Picking);Célula Robótica 1;43.8;13.6;60;3;141.28;Sim;Sup. Costa
+PRC-196;Transporte;Linha B - Pintura;6.7;2.1;303;2;933.71;Não;Eng. Silva
+PRC-197;Embalagem (Packing);Linha A - Montagem;40.6;8.3;379;2;1451.6;Sim;Analista Rocha
+PRC-198;Armazenagem;Célula Robótica 1;26.1;6.7;409;23;718.32;Não;Eng. Santos
+PRC-199;Armazenagem;Célula de Solda;44.7;14.8;87;3;334.35;Sim;Sup. Souza
+PRC-200;Expedição;Célula Robótica 1;8.0;2.6;183;10;589.21;Não;Sup. Costa
